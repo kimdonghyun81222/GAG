@@ -1,0 +1,18 @@
+﻿{
+  "name": "GrowAGarden.Farming",
+  "rootNamespace": "GrowAGarden.Farming",
+  "references": [
+    "GrowAGarden.Core",
+    "GrowAGarden.Environment",
+    "GrowAGarden.Player"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
